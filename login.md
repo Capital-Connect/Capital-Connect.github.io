@@ -1,5 +1,5 @@
 > ## Documentation Index
-> Fetch the complete documentation at: https://capital-connect.github.io/index.md
+> Fetch the complete [documentation](https://capital-connect.github.io/index.md)
 > Use this file to discover all available pages before exploring further.
 
 # Login
@@ -10,7 +10,7 @@
 - Email Address
 - Password
 
-> Step 1: Open https://app.capitalconnect.africa/auth
+> Step 1: Open [The Login Page](https://app.capitalconnect.africa/auth)
 > Step 2: Enter your email and password and click on the login button
 
 ## Possible Issues
