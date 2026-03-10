@@ -1,6 +1,6 @@
 ## Platform Navigation Guide
 
-This repository hosts guides on how the platform is used. The documents are ingested into Lara. The platform guides portal is hosted on github pages
+This repository hosts guides on how the platform is used. The documents are ingested into Lara. The platform guides portal is hosted on GitHub Pages.
 
 ## Setup
 
@@ -9,37 +9,124 @@ Clone the repository:
 git clone git@github.com:Capital-Connect/documentation.git
 ```
 
-## contribution
-1. Add the documentation - add an `md` file following this structure
+## Contribution
 
-    ```md
-        ## Documentation Index
-        > Fetch the complete [documentation](https://capital-connect.github.io/index.md)
-        > Use this file to discover all available pages before exploring further.
+1. Add the documentation — add an `md` file following this structure:
+```md
+    > ## Documentation Index
+    > Fetch the complete [documentation](https://capital-connect.github.io/index.md)
+    > Use this file to discover all available pages before exploring further.
 
-        # Name - the name of the documentation
-        A briefe description of what the documentation is about
+    # Name
+    > A brief description of what the page or feature does.
 
-        ## Requirements (Optional)
-        - list all the requirements a user need to navigate the feature
+    ---
 
-        ## Steps
-        > List all the steps taken to use/navigate the feature
+    ## Requirements (Optional)
+    > List all the information or prerequisites a user needs before using this feature.
+    - Requirement 1
+    - Requirement 2
 
-        ## Possible Issues
-        - List what could possibly go wrong (error messages, when they occur)
+    ---
 
-        ## Possible Remedies
-        - List the possible fixes to the issues. Always consider the user contacting the office if the issue persists 
+    ## Sections (Optional)
+    > Use this for pages with multiple distinct sections (e.g. Dashboard, Databases, Analytics pages).
+    > List the major sections visible on the page and link to their descriptions below.
+    - Section 1
+    - Section 2
+    - Section 3
 
-        ## Next Steps
-        - List the next steps a user would take after using the feature
+    ---
 
-        ## Suggestions
-        - List what else the user can do at the end of the feature
-    ```
-2. Update the feature in the `index.md` file in the format
+    ## Section Descriptions (Optional)
+    > Describe each section in detail. Use this for dashboards, listing pages, analytics views, and database pages.
 
-    ```md
+    ### Section 1 Name
+    Description of what this section shows or does.
+
+    | Field/Column | Description |
+    |---|---|
+    | Field name | What it means |
+
+    ### Section 2 Name
+    Description of what this section shows or does.
+
+    ---
+
+    ## Steps (Optional)
+    > Use this for features that involve a multi-step process (e.g. forms, assessments, onboarding flows, bookings).
+    > Link to the URL of each step where applicable.
+
+    > **Step 1: Step Name**
+    > Open [Step Page](https://app.capitalconnect.africa/path)
+
+    1. **Question or field label**
+       > Context or guidance for this field.
+       > Examples: *example 1, example 2*
+
+    > **Step 2: Step Name**
+
+    1. **Question or field label**
+       > Context or guidance for this field.
+
+    ---
+
+    ## Cards / Items (Optional)
+    > Use this for pages that display a list of cards, tiers, or selectable items (e.g. Services page, Call for Applications).
+
+    ### Item Name — Price or Tag
+    > Tagline or short description.
+
+    **What's included:**
+    - Feature 1
+    - Feature 2
+
+    > Call to action note. Click **Button Label** to proceed.
+
+    ---
+
+    ## Possible Issues
+    - Issue 1 — when it occurs
+    - Issue 2 — when it occurs
+
+    ## Possible Remedies
+    - Fix for issue 1
+    - Fix for issue 2
+    - If the issue persists, contact our office
+
+    ---
+
+    ## Next Steps
+    On completion, some or all of these could be the next steps:
+    1. **Next Feature** — Brief description
+    2. **Go to Dashboard** — Return to the main dashboard
+
+    ## Suggestions
+    - How to do X
+    - How to do Y
+    - What is on the Dashboard
+```
+
+2. Update the feature in the `index.md` file in the format:
+```md
     - [Name](Link): What it does
-    ```
+```
+
+---
+
+## Page Type Reference
+
+Use the table below to decide which optional sections to include for each type of page:
+
+| Page Type | Sections to Include |
+|---|---|
+| **Form / Assessment** | Requirements, Steps, Possible Issues, Possible Remedies, Next Steps, Suggestions |
+| **Dashboard** | Sections, Section Descriptions, Possible Issues, Possible Remedies, Next Steps, Suggestions |
+| **Database / List Page** | Sections, Section Descriptions, Possible Issues, Possible Remedies, Next Steps, Suggestions |
+| **Analytics Page** | Sections, Section Descriptions, Next Steps, Suggestions |
+| **Services / Pricing Page** | Cards/Items, Possible Issues, Possible Remedies, Next Steps, Suggestions |
+| **Booking / Scheduling** | Requirements, Steps, Possible Issues, Possible Remedies, Next Steps, Suggestions |
+| **Document Upload** | Requirements, Steps, Possible Issues, Possible Remedies, Next Steps, Suggestions |
+| **Navigation / Sidebar** | Sections, Section Descriptions, Possible Issues, Possible Remedies |
+| **Profile Page** | Sections, Section Descriptions, Possible Issues, Possible Remedies, Next Steps, Suggestions |
+| **Invoice / Billing** | Sections, Section Descriptions, Possible Issues, Possible Remedies, Next Steps, Suggestions |
