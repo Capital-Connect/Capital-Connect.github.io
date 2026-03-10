@@ -1,5 +1,5 @@
 > ## Documentation Index
-> Fetch the complete [documentation](https://capital-connect.github.io/index.md)
+> Fetch the complete [documentation]:https://capital-connect.github.io/index.md
 > Use this file to discover all available pages before exploring further.
 
 # Register
@@ -14,10 +14,10 @@ Creating an account on Capital Connect Africa Portal is free and simple
 - Email Address
 - Phone Number
 
-> Step 1: Open [The Register Page](https://app.capitalconnect.africa/auth/signup)
+> Step 1: Open [The Register Page]: https://app.capitalconnect.africa/auth/signup
 > Step 2: Select an account type: either as a Business or as an Investor.
 > Step 3: Provide your details: First Name, Last Name, Email Address, Phone Number, and Password
-> Step 4: Review and consent to our [Terms of Use](https://www.capitalconnect.africa/terms) and [Privacy Policy](https://www.capitalconnect.africa/disclaimer)
+> Step 4: Review and consent to our [Terms of Use]: https://www.capitalconnect.africa/terms and [Privacy Policy]: https://www.capitalconnect.africa/disclaimer
 > Step 5: Hit Signup to proceed
 
 ## Possible Issues
