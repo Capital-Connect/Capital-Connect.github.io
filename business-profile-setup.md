@@ -117,6 +117,18 @@ This is optional and does not affect investor matching.
 - Verify all required fields in the current step are filled before proceeding
 - If the issue persists, contact our office
 
+## Success Page
+On successful completion of the Investor Eligibility assessment, you will be redirected to a success page
+
+From the success page you can navigate to:
+- **Go to Dashboard** — Return to the main dashboard
+- **Take Investor Eligibility Assessment** — Complete or revisit the Eligibility Assessment
+- **Take Impact Assessment** — Complete or revisit the Impact Assessment
+- **Complete Business Information** — Revisit this assessment
+- **Take Investor Preparedness Assessment** — Complete or revisit the Preparedness Assessment
+
+---
+
 ## Next Steps
 On successful profile setup, some or all of these could be the next steps
 1. **Complete Investor Readiness**: While optional, we strongly recommend completing all four investor readiness assessments to improve your visibility and attractiveness to investors:
