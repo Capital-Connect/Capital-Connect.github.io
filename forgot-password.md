@@ -1,5 +1,5 @@
 > ## Documentation Index
-> Fetch the complete documentation at: https://index.md
+> Fetch the complete documentation at: https://capital-connect.github.io/index.md
 > Use this file to discover all available pages before exploring further.
 
 # Forgot Password
