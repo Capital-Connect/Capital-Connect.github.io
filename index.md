@@ -56,3 +56,7 @@
 - [Business Invoices](https://capital-connect.github.io/business-invoices.md): View and download invoices for all payments made on the platform, including valuation reports and advisory sessions
 
 ---
+
+
+## Matchmaking
+- [Matchmaking](https://capital-connect.github.io/matchmaking.md): Match businesses with investors and investors with businesses on the Capital Connect Africa Platform
