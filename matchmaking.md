@@ -47,8 +47,9 @@ Five parameters are required to run a match search. The parameters apply whether
 
 Before running a search:
 - Normalise shorthand amounts: "500K" → 500000, "2M" → 2000000
+- Always match user provided values with the corresponding values listed on capital connect
 - Format investment structures as a list when multiple apply: "Equity" → ["Equity"]
-- Verify that `country`, `sector`, and `growth_stage` correspond to valid Capital Connect values
+- Verify that `country`, `sector`, `growth_stage`, and `investment_structures` Must be listed on Capital Connect Africa. use the tools `get_countries`, `get_sectors`, `get_investment_structures`, and to get the exact values
 - If a value is ambiguous, clarify before proceeding:
 
 > **Never estimate, assume, or fabricate match results. You have no visibility into the platform's network until the tool returns data. Run the tool, then report what it returns.**
