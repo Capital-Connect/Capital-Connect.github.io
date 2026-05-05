@@ -6,7 +6,7 @@
 > Always identify the user's role (Business or Investor) and current task before selecting a page.
 
 ---
-
+ 
 ## Authentication
 
 - [Login](https://capital-connect.github.io/login.md): Authenticate to the Capital Connect Africa Platform using your email and password
