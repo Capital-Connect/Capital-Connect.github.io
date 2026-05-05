@@ -6,6 +6,17 @@
 
 > Assess whether your business is ready and eligible to raise capital from investors on Capital Connect Africa.
 > This is one of four investor readiness assessments we recommend completing to improve your visibility and attractiveness to investors.
+---
+## What This Assessment Is
+ 
+The Investor Eligibility Assessment establishes whether a business is fundamentally ready to raise capital. It is the first and most important assessment — it gates the Eligibility Score that investors see first when reviewing a profile. A strong Eligibility Score signals that a founder has done the foundational work before approaching investors.
+ 
+ Priority: **1st of four investor readiness assessments — do this first**
+> This assessment determines whether the business meets the basic criteria investors look for.
+ 
+**Your framing before starting:** *"This is the most important of the four assessments — it tells investors whether your business meets their basic criteria. Before we start, make sure you know your preferred investment structure, how much you're raising, how you'll use the funds, and that you have financial forecasts ready. These are the core questions we'll be working through."*
+ 
+---
 
 ---
 
@@ -77,8 +88,9 @@ automatically redirected to the profile set-up page: https://app.capitalconnect.
    > Examples: *Bank loans, Government grants, Revenue-based financing, Bootstrapping, Angel networks*
 
 ---
+---
 
-## Possible Issues
+# Possible Issues
 - Form does not proceed to the next step — not all required questions in the current step have been answered
 - Assessment page is not accessible — Business Profile has not been completed yet
 
@@ -97,8 +109,6 @@ From the success page you can navigate to:
 - **Take Impact Assessment** — Complete or revisit the Impact Assessment
 - **Complete Business Information** — Revisit this assessment
 - **Take Investor Preparedness Assessment** — Complete or revisit the Preparedness Assessment
-
----
 
 ## Next Steps
 On successful completion of the Investor Eligibility Assessment, some or all of these could be the next steps
