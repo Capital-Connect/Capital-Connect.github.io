@@ -121,4 +121,4 @@ From the Profile page, the user can navigate to any of the following:
 - How to update my business profile
 - How to improve my investor readiness score
 - How to view my investor matches
-- What is on the Dashboard
+- What is on the Dashboardg
