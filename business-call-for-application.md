@@ -167,7 +167,6 @@ One diagnostic at a time.
 5. Return to the Dashboard to continue the overall fundraising journey
 
 ---
-
 ## Sections
 - Browse Calls for Applications
 - My Applications
