@@ -162,4 +162,4 @@ One diagnostic at a time.
 
 - How to improve my investor readiness score
 - How to update my investment profile
-- What is on the Dashboard
+- What is on the Dashboard 
