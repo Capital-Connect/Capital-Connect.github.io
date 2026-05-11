@@ -60,3 +60,11 @@
 
 ## Matchmaking
 - [Matchmaking](https://capital-connect.github.io/matchmaking.md): Match businesses with investors and investors with businesses on the Capital Connect Africa Platform
+
+
+## Investors
+- [Investor Dashboard](https://capital-connect.github.io/investor-dashboard.md): Investor portal for all matched businesses, businesses interested, connection requests, connected businesses, declined matches, deal pipeline, investor activity 
+
+## Onboarding & Profile
+- [Investor Create Account](https://capital-connect.github.io/investor-create-account.md):Investor onboarding and verification workflow including investor sign up, investor registration, investor account creation, investor email verification, background checks, pending verification status, investment profile setup, investor approval, accepted investor status, and start-now onboarding actions.
+-[Investor Profile](https://capital-connect.github.io/investor-profile.md):View and manage your investor profile details on Capital Connect Africa.
