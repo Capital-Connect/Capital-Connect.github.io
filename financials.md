@@ -14,12 +14,13 @@
 - Income Statement
 - Balance Sheet
 - Cash Flow
+- Mpesa statement
 
 > Each statement supports multiple years of data, displayed side by side for easy comparison.
 > Currency defaults to **United States Dollar** and can be changed using the edit icon next to the currency label.
 > Toggle **Edit Mode** on to enter or update figures directly in the table.
 
----
+
 
 ## Income Statement
 > An income statement is a financial statement that shows the financial performance of a business over a period of time. It is used to track the financial performance of a business and to make decisions about the business.

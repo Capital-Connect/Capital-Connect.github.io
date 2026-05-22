@@ -98,3 +98,4 @@ From the Global Investor Database, the user can navigate to any of the following
 - How to view and engage with platform matches
 - How to book an advisory session
 - What is on the Dashboard
+- How 
