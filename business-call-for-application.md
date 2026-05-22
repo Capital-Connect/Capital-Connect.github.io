@@ -166,7 +166,7 @@ One diagnostic at a time.
 4. Browse open calls and identify 2–3 strong matches based on sector, country, and focus areas
 5. Return to the Dashboard to continue the overall fundraising journey
 
----
+--- 
 ## Sections
 - Browse Calls for Applications
 - My Applications
