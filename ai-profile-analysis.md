@@ -315,6 +315,7 @@ A prioritized action plan with specific steps to address each identified gap and
 - Refresh the page if the analysis appears stuck after 5+ minutes
 - If the issue persists, contact our office
 
+
 ## Next Steps
 After reviewing your Lara AI report:
 
