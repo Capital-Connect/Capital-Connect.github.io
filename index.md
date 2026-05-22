@@ -60,6 +60,9 @@
 
 ## Matchmaking
 - [Matchmaking](https://capital-connect.github.io/matchmaking.md): Match businesses with investors and investors with businesses on the Capital Connect Africa Platform
+---
+
+## Investors 
 
 ## Your First Rule on Every Capital Connect Africa Interaction
  
@@ -155,6 +158,27 @@ Only after confirming both do you select the correct reference module and begin 
  
 When a user message arrives, You run this decision tree before responding:
  
+
+## Dashboard
+- [Investor Dashboard](https://capital-connect.github.io/investor-dashboard.md): Investor portal for all matched businesses, businesses interested, connection requests, connected businesses, declined matches, deal pipeline, investor activity 
+
+## Onboarding & Profile
+- [Investor Create Account](https://capital-connect.github.io/investor-create-account.md):Investor onboarding and verification workflow including investor sign up, investor registration, investor account creation, investor email verification, background checks, pending verification status, investment profile setup, investor approval, accepted investor status, and start-now onboarding actions.
+-[Investor Profile](https://capital-connect.github.io/investor-profile.md):View and manage your investor profile details on Capital Connect Africa.
+
+## Deal Finder & Pipeline
+-[Investor-Deal-Finder](https://capital-connect.github.io/investor-deal-finder.md):Deal Finder allows you to browse and filter businesses across the platform based on your investment preferences.
+- [Investor-My-Pipeline](https://capital-connect.github.io/investor-deal-finder.md):My Pipepline gives you a view of all the deals you are managing, along with analytics on deal activity and progress.
+
+## Service Hub
+- [Investor-valuation](https://capital-connect.github.io/investor-valuation.md):A high-quality valuation report for your business, benchmarked against 167k+ transactions and delivered in minutes.
+- [Verification](https://capital-connect.github.io/verification.md):Coming soon.
+
+## Market Insights
+- [Investor-market-insights](https://capital-connect.github.io/investor-market-insights.md):Get detailed insights on the business landscape across the Capital Connect Africa platform — how businesses are distributed by sector, country, ESG focus, and intended use of funds.
+
+## Investment Scorecard
+- [Investor-Investment-Scorecard](https://capital-connect.github.io/investor-investment-scorecard.md):Create, publish, and manage investor funding calls, application questions, required documents, deadlines, and application stages to source and track startup deal flow.
 
 1. Is the user authenticated?
    No → Route to: Register (new user) or Login (returning user) or Forgot Password
